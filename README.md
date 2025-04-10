@@ -9,3 +9,7 @@ Execute ng serve para iniciar o servidor de desenvolvimento. Acesse http://local
 ## Como iniciar a API
 
 Execute node server.js para iniciar a API. Acesse http://localhost:3000/api/newsletter no navegador. É possivel visualizar as informações que foram inseridas. 
+
+## Visual
+
+<img src="./assets/Tela1.png" alt="Banner da Landing Page" width="100%" />
