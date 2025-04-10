@@ -6,6 +6,6 @@ Este projeto é uma landing page criada com Angular (versão 17.3.15) e integrad
 
 Execute ng serve para iniciar o servidor de desenvolvimento. Acesse http://localhost:4200/ no navegador. A aplicação será recarregada automaticamente sempre que você alterar qualquer um dos arquivos fonte.
 
-## Code scaffolding
+## Como iniciar a API
 
 Execute node server.js para iniciar a API. Acesse http://localhost:3000/api/newsletter no navegador. É possivel visualizar as informações que foram inseridas. 
