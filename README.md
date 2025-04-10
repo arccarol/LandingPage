@@ -13,3 +13,7 @@ Execute node server.js para iniciar a API. Acesse http://localhost:3000/api/news
 ## Visual
 
 <img src="src/assets/Tela1.png" alt="Banner da Landing Page" width="100%" />
+
+<img src="src/assets/Tela2.png" alt="Banner da Landing Page" width="100%" />
+
+<img src="src/assets/Tela3.png" alt="Banner da Landing Page" width="100%" />
